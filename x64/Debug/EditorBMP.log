@@ -1,0 +1,34 @@
+﻿  BitMap.cpp
+  EditorBMP.cpp
+  Processing.cpp
+C:\Users\vflorens\source\repos\EditorBMP\EditorBMP\Processing.cpp(139,58): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\vflorens\source\repos\EditorBMP\EditorBMP\Processing.cpp(139,35): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\vflorens\source\repos\EditorBMP\EditorBMP\Processing.cpp(153,33): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\vflorens\source\repos\EditorBMP\EditorBMP\Processing.cpp(153,28): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\vflorens\source\repos\EditorBMP\EditorBMP\Processing.cpp(154,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\vflorens\source\repos\EditorBMP\EditorBMP\Processing.cpp(154,41): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\vflorens\source\repos\EditorBMP\EditorBMP\Processing.cpp(155,49): warning C4244: 'argument' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\vflorens\source\repos\EditorBMP\EditorBMP\Processing.cpp(155,34): warning C4244: 'argument' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\vflorens\source\repos\EditorBMP\EditorBMP\Processing.cpp(156,56): warning C4244: 'argument' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\vflorens\source\repos\EditorBMP\EditorBMP\Processing.cpp(156,36): warning C4244: 'argument' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\vflorens\source\repos\EditorBMP\EditorBMP\Processing.cpp(156,101): warning C4244: 'argument' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\vflorens\source\repos\EditorBMP\EditorBMP\Processing.cpp(156,86): warning C4244: 'argument' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\vflorens\source\repos\EditorBMP\EditorBMP\Processing.cpp(158,56): warning C4244: 'argument' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\vflorens\source\repos\EditorBMP\EditorBMP\Processing.cpp(158,36): warning C4244: 'argument' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\vflorens\source\repos\EditorBMP\EditorBMP\Processing.cpp(165,33): warning C4244: 'return' : conversion de 'double' en 'float', perte possible de données
+C:\Users\vflorens\source\repos\EditorBMP\EditorBMP\Processing.cpp(182,33): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\vflorens\source\repos\EditorBMP\EditorBMP\Processing.cpp(182,28): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\vflorens\source\repos\EditorBMP\EditorBMP\Processing.cpp(184,21): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\vflorens\source\repos\EditorBMP\EditorBMP\Processing.cpp(184,16): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\vflorens\source\repos\EditorBMP\EditorBMP\Processing.cpp(191,37): warning C4244: 'argument' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\vflorens\source\repos\EditorBMP\EditorBMP\Processing.cpp(191,28): warning C4244: 'argument' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\vflorens\source\repos\EditorBMP\EditorBMP\Processing.cpp(192,56): warning C4244: 'argument' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\vflorens\source\repos\EditorBMP\EditorBMP\Processing.cpp(192,36): warning C4244: 'argument' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\vflorens\source\repos\EditorBMP\EditorBMP\Processing.cpp(192,89): warning C4244: 'argument' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\vflorens\source\repos\EditorBMP\EditorBMP\Processing.cpp(192,80): warning C4244: 'argument' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\vflorens\source\repos\EditorBMP\EditorBMP\Processing.cpp(194,56): warning C4244: 'argument' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\vflorens\source\repos\EditorBMP\EditorBMP\Processing.cpp(194,36): warning C4244: 'argument' : conversion de 'float' en 'const int', perte possible de données
+C:\Users\vflorens\source\repos\EditorBMP\EditorBMP\Processing.cpp(200,58): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\vflorens\source\repos\EditorBMP\EditorBMP\Processing.cpp(200,35): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  Génération de code en cours...
+  EditorBMP.vcxproj -> C:\Users\vflorens\source\repos\EditorBMP\x64\Debug\EditorBMP.exe
